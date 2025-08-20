@@ -618,6 +618,7 @@ input[type="radio"] {
         position: relative;
         right: 40px;
         width: 500px;
+        font-size: 13px;
     }
 }
 
@@ -1353,3 +1354,4 @@ footer .second > div:last-of-type i:hover {
 }
 
 /*end copy*/
+
