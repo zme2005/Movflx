@@ -621,9 +621,9 @@ input[type="radio"] {
     }
 
     .up .title > p:nth-of-type(2) {
-        position: absolute;
+        position: relative;
          font-size: 35px;
-         right: 20px;
+         right: 50px;
 }
 
 /*end sec-movies*/
@@ -1358,6 +1358,7 @@ footer .second > div:last-of-type i:hover {
 }
 
 /*end copy*/
+
 
 
 
