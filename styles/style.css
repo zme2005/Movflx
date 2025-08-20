@@ -623,7 +623,7 @@ input[type="radio"] {
     .up .title > p:nth-of-type(2) {
         position: relative;
          font-size: 35px;
-         right: 40px;
+         right: 30px;
 }
 
 /*end sec-movies*/
@@ -1129,7 +1129,7 @@ input[type="radio"] {
     }
 
     .trail div:last-of-type input {
-        width: 300px;
+        width: 350px;
     }
 
     .trail div:last-of-type button {
@@ -1358,6 +1358,7 @@ footer .second > div:last-of-type i:hover {
 }
 
 /*end copy*/
+
 
 
 
