@@ -618,8 +618,10 @@ input[type="radio"] {
         position: relative;
         right: 40px;
         width: 500px;
-        font-size: 13px;
     }
+
+    .up .title > p:nth-of-type(2) {
+         font-size: 35px;
 }
 
 /*end sec-movies*/
@@ -1354,4 +1356,5 @@ footer .second > div:last-of-type i:hover {
 }
 
 /*end copy*/
+
 
